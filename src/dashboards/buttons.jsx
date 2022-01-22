@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Buttons() {
-  return <>Buttons</>;
+  return <div>Buttons</div>;
 }
