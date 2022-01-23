@@ -7,7 +7,7 @@ import './style.css';
 
 export default function App() {
   return (
-    <div>
+    <div className="mb-10">
       <Quotes />
       <Footer />
     </div>
